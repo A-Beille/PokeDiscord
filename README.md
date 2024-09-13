@@ -1,6 +1,5 @@
 <div style="text-align: center;">
-  
-<h1>PokéDiscord</h1>
+    <img src="https://github.com/A-Beille/PokeDiscord/blob/main/sprites/logo.png?raw=true">
 </div>
 <p>PokéDiscord est un robot permettant d'obtenir des informations globales sur un Pokémon et ses statistiques.</p>
 <h2>Commandes</h2>
