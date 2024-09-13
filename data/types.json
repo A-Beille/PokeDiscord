@@ -1,0 +1,20 @@
+{
+    "poison": "./sprites/types/poison.png",
+    "plante": "./sprites/types/plante.png",
+    "electrik": "./sprites/types/electrik.png",
+    "acier": "./sprites/types/acier.png",
+    "feu": "./sprites/types/feu.png",
+    "sol": "./sprites/types/sol.png",
+    "glace": "./sprites/types/glace.png",
+    "normal": "./sprites/types/normal.png",
+    "combat": "./sprites/types/combat.png",
+    "roche": "./sprites/types/roche.png",
+    "tenebres": "./sprites/types/tenebres.png",
+    "insecte": "./sprites/types/insecte.png",
+    "psy": "./sprites/types/psy.png",
+    "dragon": "./sprites/types/dragon.png",
+    "fee": "./sprites/types/fee.png",
+    "spectre": "./sprites/types/spectre.png",
+    "vol": "./sprites/types/vol.png",
+    "eau": "./sprites/types/eau.png"
+  }
