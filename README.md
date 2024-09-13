@@ -28,5 +28,5 @@
 <p>Le bot fonctionne à l'aide de panels : informations / statistiques.</p>
 <div style="display: flex;">
     ![Panel d'informations](/examples/panelInfos?raw=true "Panel d'informations")
-    ![Panel de statistiques](/examples/panelStats?raw=true "Panel de statistiques")
+    ![Panel de statistiques](https://github.com/A-Beille/PokeDiscord/blob/main/examples/panelStats.png "Panel de statistiques")
 </div>
