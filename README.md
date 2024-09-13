@@ -27,6 +27,7 @@
 <h2>Panels</h2>
 <p>Le bot fonctionne à l'aide de panels : informations / statistiques.</p>
 <div style="display: flex;">
-    ![Panel d'informations](/examples/panelInfos?raw=true "Panel d'informations")
-   <img src="https://github.com/A-Beille/PokeDiscord/blob/main/examples/panelStats.png?raw=true">
+    <img src="https://github.com/A-Beille/PokeDiscord/blob/main/examples/panelInfos.png?raw=true" height="300px">
+   <img src="https://github.com/A-Beille/PokeDiscord/blob/main/examples/panelStats.png?raw=true" height="300px">
 </div>
+<p>En 1. le panel d'informations, en 2. le panel de statistiques</p>
