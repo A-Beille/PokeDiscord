@@ -11,3 +11,5 @@
    <img src="https://github.com/A-Beille/PokeDiscord/blob/main/examples/panelStats.png?raw=true" height="300px">
 </div>
 <p>En 1. le panel d'informations, en 2. le panel de statistiques</p>
+<br>
+<p>Changez de panels à l'aide des boutons sous chaque embed</p>
